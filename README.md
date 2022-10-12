@@ -1,7 +1,3 @@
-# JavaScript-from-Beginner-to-Professional-
-JavaScript from Beginner to Professional, Published by Packt
+# My Javascript Workshop 💻
+Javascript exercises and projects time line study progress.
 
-
-
-----------------------------------------------------
-Each chapter contains the example codes explained in the book in the `Code Samples` directory along with `Exercises` and `Projects` from the book arranged chapterwise.
